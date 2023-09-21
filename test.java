@@ -1,5 +1,5 @@
 int main(){
-print("hi Grabher");	
+print("hi Grabher wieso konnst du nix");	
 }
 //Hallo
 
