@@ -1,6 +1,1 @@
-int main(){
-print("hi ");	
-}
-//Hallo
-//Lukas
-//Herr Eder
+//Hello World
